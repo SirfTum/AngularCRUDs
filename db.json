@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "mazharerew",
+      "lastName": "hussain",
+      "email": "mazhar38192@gmail.com",
+      "mobile": "2334",
+      "salary": "2234324"
+    },
+    {
+      "id": 3,
+      "firstName": "ab@gmail.com",
+      "lastName": "dsg",
+      "email": "fdgdfg",
+      "mobile": "324234",
+      "salary": "2343"
+    },
+    {
+      "id": 4,
+      "firstName": "aqeel",
+      "lastName": "ali",
+      "email": "name",
+      "mobile": "4949449",
+      "salary": "4949449"
+    },
+    {
+      "id": 5,
+      "firstName": "aqeel",
+      "lastName": "ali",
+      "email": "mazhar38192@gmail.com",
+      "mobile": "5464363456545",
+      "salary": "4949449"
+    },
+    {
+      "id": 6,
+      "firstName": "mazhar38192@gmail.com",
+      "lastName": "mazhar38192@gmail.com",
+      "email": "mazhar38192@gmail.com",
+      "mobile": "4949449",
+      "salary": "4949449"
+    },
+    {
+      "id": 7,
+      "firstName": "aqeel",
+      "lastName": "baig",
+      "email": "ab@gmail.com",
+      "mobile": "393939329",
+      "salary": "3294593"
+    },
+    {
+      "id": 8,
+      "firstName": "imran",
+      "lastName": "akbar",
+      "email": "ia@gmail.com",
+      "mobile": "54u320958340",
+      "salary": "0450349"
+    },
+    {
+      "id": 9,
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "salary": null
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
